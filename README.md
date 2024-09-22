@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthshah04&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parthshah04&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=parthshah04&icon=0&color=2)](https://visitcount.itsvg.in)
 
